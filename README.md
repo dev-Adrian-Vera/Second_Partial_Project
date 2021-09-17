@@ -1,6 +1,6 @@
 
  # Second Partial Project of the subject "PROCESOS DE SOFTWARE".
- ## Developers: @Adrian Vera, Lina Sanches, Angelo Rubio.
+ ## Developers: Adrian Vera, Lina Sanches, Angelo Rubio.
  
 This project consists of reusing an abandoned project and making the necessary corrections to make it possible to execute it.
 
